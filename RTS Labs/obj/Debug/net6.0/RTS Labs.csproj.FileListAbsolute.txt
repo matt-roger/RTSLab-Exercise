@@ -1,0 +1,15 @@
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\bin\Debug\net6.0\RTS Labs.exe
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\bin\Debug\net6.0\RTS Labs.deps.json
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\bin\Debug\net6.0\RTS Labs.runtimeconfig.json
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\bin\Debug\net6.0\RTS Labs.dll
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\bin\Debug\net6.0\RTS Labs.pdb
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\RTS Labs.csproj.AssemblyReference.cache
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\RTS Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\RTS Labs.AssemblyInfoInputs.cache
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\RTS Labs.AssemblyInfo.cs
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\RTS Labs.csproj.CoreCompileInputs.cache
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\RTS Labs.dll
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\refint\RTS Labs.dll
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\RTS Labs.pdb
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\RTS Labs.genruntimeconfig.cache
+C:\Users\Matt Roger\source\repos\RTS Labs\RTS Labs\obj\Debug\net6.0\ref\RTS Labs.dll
